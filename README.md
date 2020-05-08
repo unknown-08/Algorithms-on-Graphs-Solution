@@ -1,1 +1,1 @@
-# Algorithms-on-Graphs-Solution
+# Algorithms-on-Graphs-Coursera-Solution
